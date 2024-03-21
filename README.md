@@ -1,2 +1,2 @@
 # demo
-Hi i am pratham
+Hi i am pratham. I study in VIT
